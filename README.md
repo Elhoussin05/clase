@@ -1,6 +1,6 @@
 # clase
 
-## subtitulo
+## mkdos material
 ### sub subtitulo
 Repositorio para pruebas de clase de `2CFSN`
 hola
